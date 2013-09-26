@@ -16,7 +16,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         
-        
+        <!-- adding text to check git repo -->
         
         <activity
             android:name="com.example.paulsapp.MainActivity"
