@@ -16,7 +16,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         
-        
+       <!-- he gave me a serious doin.... -->
         
         <activity
             android:name="com.example.paulsapp.MainActivity"
